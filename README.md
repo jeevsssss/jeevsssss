@@ -10,7 +10,6 @@ in the field of computer science.</p><p></p>
 <br><br>
 
 
-- 🌱 I’m currently learning **React native**
 
 - 👨‍💻 All of my projects are available at [jeevss.me](jeevss.me)
 
