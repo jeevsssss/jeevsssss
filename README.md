@@ -32,6 +32,8 @@
   <a href="https://linkedin.com/in/jeevaaSV" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevaa-s-v-36613a176" height="30" width="40" /></a>
   <a href="https://instagram.com/___salt___and___pepper___" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___salt___and___pepper___" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/JeevaaSV" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeevaasv" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/jeevaasrivarshi1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="YourHackerRankUsername" height="30" width="40" /></a>
+
 </p>
 
 <br>
